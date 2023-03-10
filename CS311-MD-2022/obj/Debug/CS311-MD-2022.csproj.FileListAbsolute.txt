@@ -1,0 +1,53 @@
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\bin\Debug\CS311-MD-2022.exe.config
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\bin\Debug\CS311-MD-2022.exe
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\bin\Debug\CS311-MD-2022.pdb
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311-MD-2022.csproj.AssemblyReference.cache
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311-MD-2022.csproj.SuggestedBindingRedirects.cache
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmAcct.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmLogin.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmMain.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.Properties.Resources.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311-MD-2022.csproj.GenerateResource.cache
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311-MD-2022.csproj.CoreCompileInputs.cache
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311-MD-2022.exe
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311-MD-2022.pdb
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmUpdateAcct.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmNewAcct.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmEquipment.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmNewEquipment.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmUpdateEquipment.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmTicket.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmNewTicket.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmUpdateTicket.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmApproveTicket.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmAssignTicket.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmCompleteTicket.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmChangePassword.resources
+D:\5th Semester\Computer Programming 3 - LAB\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmLogscs.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\bin\Debug\CS311-MD-2022.exe.config
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\bin\Debug\CS311-MD-2022.exe
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\bin\Debug\CS311-MD-2022.pdb
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311-MD-2022.csproj.AssemblyReference.cache
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311-MD-2022.csproj.SuggestedBindingRedirects.cache
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmAcct.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmApproveTicket.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmAssignTicket.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmChangePassword.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmCompleteTicket.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmEquipment.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmLogin.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmLogscs.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmMain.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmNewAcct.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmNewEquipment.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmNewTicket.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmTicket.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmUpdateAcct.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmUpdateEquipment.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmUpdateTicket.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.Properties.Resources.resources
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311-MD-2022.csproj.GenerateResource.cache
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311-MD-2022.csproj.CoreCompileInputs.cache
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311-MD-2022.exe
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311-MD-2022.pdb
+D:\2022-2023\Software Engineering 2\Activities\CS311-MD-2022\CS311-MD-2022\obj\Debug\CS311_MD_2022.frmDashboard.resources
